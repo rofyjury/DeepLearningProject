@@ -1,0 +1,7 @@
+model,type,layers,d,with residual,w/o residual,floor (d/n)
+gpt2,decoder,12,768,0.972,0.6724,0.0938
+gpt2-medium,decoder,24,1024,0.9854,0.6211,0.125
+facebook/opt-125m,decoder,12,768,0.9914,0.7384,0.0938
+EleutherAI/pythia-160m,decoder,12,768,0.9306,0.7821,0.0938
+bert-base-uncased,encoder,12,768,0.9214,0.6652,0.0938
+roberta-base,encoder,12,768,0.9285,0.6924,0.0938
