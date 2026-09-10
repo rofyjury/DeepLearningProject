@@ -1,1 +1,1 @@
-To run the code you'll need to use a python enviroment like pycharm. All the other steps are explained at the begining of the IPYNB file.
+To run the code you'll need to use a python enviroment like pycharm. All the other steps are explained at the begining of the IPYNB file. If there are any problems with the Pytorch version you can e-mail us at roeehoury@gmail.com.
